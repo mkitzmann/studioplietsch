@@ -1,0 +1,13 @@
+editors:
+  icon: users
+  readableName: 'Editor Users'
+  description: 'The group of editors users'
+  access:
+    admin:
+      login: true
+      pages: true
+      maintenance: true
+      super: false
+      statistics: true
+    site:
+      login: true
